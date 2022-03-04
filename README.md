@@ -6,7 +6,7 @@
 
 
 ## Tecnologias
-- typeScript
-- react
+- TypeScript
+- ReactJS
 - HTML | CSS 
 - react-beautiful-dnd
